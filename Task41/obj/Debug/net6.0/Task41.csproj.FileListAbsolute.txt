@@ -1,0 +1,15 @@
+D:\git\dz_23_aug\Task41\bin\Debug\net6.0\Task41.exe
+D:\git\dz_23_aug\Task41\bin\Debug\net6.0\Task41.deps.json
+D:\git\dz_23_aug\Task41\bin\Debug\net6.0\Task41.runtimeconfig.json
+D:\git\dz_23_aug\Task41\bin\Debug\net6.0\Task41.dll
+D:\git\dz_23_aug\Task41\bin\Debug\net6.0\Task41.pdb
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\Task41.csproj.AssemblyReference.cache
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\Task41.AssemblyInfoInputs.cache
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\Task41.AssemblyInfo.cs
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\Task41.csproj.CoreCompileInputs.cache
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\Task41.dll
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\refint\Task41.dll
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\Task41.pdb
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\Task41.genruntimeconfig.cache
+D:\git\dz_23_aug\Task41\obj\Debug\net6.0\ref\Task41.dll
